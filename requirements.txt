@@ -1,0 +1,11 @@
+numpy
+scipy
+scikit-learn
+pyarrow
+psutil
+narwhals
+sparse_dot_topn==1.2.0
+rapidfuzz
+lightgbm
+pyicu-wheels
+datasketch
